@@ -11,7 +11,7 @@
 ## ➡️ About Me
 
 <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh1amEzbDc5MmJ3bnM0cWxrYXRwcnRrNHoyNzNwZXY3bGl2Z3I2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" width="200" height="181" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh1amEzbDc5MmJ3bnM0cWxrYXRwcnRrNHoyNzNwZXY3bGl2Z3I2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" width="200" height="180" align="right"/>
   
 - 🔭 I'm currently working on improving my skills every day
 - 🌱 Learning everything about AI/ML & Web-dev

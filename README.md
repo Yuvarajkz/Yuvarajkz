@@ -1,20 +1,52 @@
-<div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=100&lines=Hey+there!+I'm+Yuvaraj+Karuanidhi;I+love+code%2C+tech%2C+and+engineering!;Shinobi+by+heart%2C+developer+by+skill+%E2%9A%A1" width="100%" />
-<br><br>
-<pre>
-    💼 B.tech CSE • Web dev • Software Engineer
-    💻 Skils • Python • C++ • HTML,CSS,JS • SQL
-    📖 AI/ML • 
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
+<p align="center">
+  <img src="https://github.com/Yuvaraj-Karuanidhi/Yuvaraj-Karuanidhi/blob/main/assets/anime-banner.gif?raw=true" alt="Anime Coding Banner" width="100%"/>
+  
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration1=1100&duration2=1100&duration3=2000&pause=800&color=FFA500&background=00000000&width=700&lines=HELLO+O.O%F0%9F%8F%93+%F0%9F%8F%93%EF%BC%BC(%5Eo%5E)%2F+O_O;I'M+A+PASSIONATE+DEVELOPER;I+AM+YUVARAJ+KARUANIDHI;&center=true&vCenter=true&repeat=true" alt="Typing Animation"/>
+    </a>
+  </h1>
+</p>
+
+## <span style="color: orange;">🎌 About Me</span>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZvZ3BqY2V6dWJ4eW5rYjZ0Z3V5a3V4dGJtM2R1bGJ6d2VxY2J6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
+</p>
+
+- 🔭 I'm currently working on improving my skills every day
+- 🌱 Learning everything about AI/ML & Web-dev
+- ⚡ Currently studing B.tech CSE
+- 🎯 Life motto: "Engineering the future. Marvel."
+- ☕ My Website: ---working on progress---
+
+## <span>⚡ Tech Stack</span>
+
+### <span style="color: orange;">Languages & Frameworks</span>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### <span>Databases & Tools</span>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## <span>📬 Connect With Me</span>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-karuanidhi)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuvaraj_codes)
+
+<p style="color: orange; font-weight: bold;">Let's build something amazing together! ✨</p>
+
+---
+
+<p align="center">
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
-</div>
+<br>
+  <span style="color: orange;">Thanks for visiting!</span>
+</p>

@@ -8,45 +8,53 @@
   </h1>
 </p>
 
-## <span style="color: orange;">🎌 About Me</span>
+## ➡️ About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZvZ3BqY2V6dWJ4eW5rYjZ0Z3V5a3V4dGJtM2R1bGJ6d2VxY2J6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right"/>
-</p>
-
+<p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh1amEzbDc5MmJ3bnM0cWxrYXRwcnRrNHoyNzNwZXY3bGl2Z3I2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" width="200" height="181" align="right"/>
+  
 - 🔭 I'm currently working on improving my skills every day
 - 🌱 Learning everything about AI/ML & Web-dev
 - ⚡ Currently studing B.tech CSE
 - 🎯 Life motto: "Engineering the future. Marvel."
 - ☕ My Website: ---working on progress---
+</p>
 
-## <span>⚡ Tech Stack</span>
+## ⚙️ Tech Stack
 
-### <span style="color: orange;">Languages & Frameworks</span>
+### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### <span>Databases & Tools</span>
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## <span>📬 Connect With Me</span>
+## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-karuanidhi)
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/yuvaraj_codes)
 
-<p style="color: orange; font-weight: bold;">Let's build something amazing together! ✨</p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU1emhkZm90OGIyYTBwMG0xeTJ5bHpvMzR5MDlvbmViOXMyaGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvPinx8119aYE/giphy.gif" width="200" height="115" align="left">
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsbzhxaTN0ZWJjazhsbWtxb2FoYWZmZzNuMTgyYmhqOWRidGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif width="200" height="115" align="right">
+</p>
+
+<br clear="both">
+
+<p align="center"; font-weight: bold;">Let's build something amazing together! ✨</p>
 
 ---
 
 <p align="center">
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br>
-  <span style="color: orange;">Thanks for visiting!</span>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
+  <br>
+  <span>ありがとうございます! だってばよ! 💖</span>
+  <br>
+  <span>Thank you! Dattebayo! 💖</span>
 </p>

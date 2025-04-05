@@ -10,7 +10,7 @@
 
 <h2 style="font-size: 1.5em; font-weight: bold;">➡️ About Me</h2>
 <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh1amEzbDc5MmJ3bnM0cWxrYXRwcnRrNHoyNzNwZXY3bGl2Z3I2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif" width="180" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZWJoNHE3OXJqMTh1NDR6dzZ0bjYycm9lYW1hZWM5Y2ljYjdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RneIcLEosVuta/giphy.gif" width="200" align="right"/>
   
 - 🔭 I'm currently working on improving my skills every day
 - 🌱 Learning everything about AI/ML & Web-dev
@@ -18,7 +18,7 @@
 - 🎯 Life motto: "Engineering the future. Marvel."
 - ☕ My Website: ---working on progress---
 </p>
-<div style="clear: both;"></div>
+
 <h2 style="font-size: 1.5em; font-weight: bold;">⚙️ Tech Stack</h2>
 
 ### Languages & Frameworks

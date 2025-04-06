@@ -1,16 +1,13 @@
-<p align="center">
-  <img src="https://github.com/Yuvaraj-Karuanidhi/Yuvaraj-Karuanidhi/blob/main/assets/anime-banner.gif?raw=true" alt="Anime Coding Banner" width="100%"/>
-  
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration1=1100&duration2=1100&duration3=2000&pause=800&color=FFA500&background=00000000&width=700&lines=HELLO+O.O%F0%9F%8F%93+%F0%9F%8F%93%EF%BC%BC(%5Eo%5E)%2F+O_O;I'M+A+PASSIONATE+DEVELOPER;I+AM+YUVARAJ+KARUANIDHI;&center=true&vCenter=true&repeat=true" alt="Typing Animation"/>
-    </a>
-  </h1>
-</p>
-
+<div align="center">
+  <img src="https://github.com/Yuvaraj-Karuanidhi/Yuvaraj-Karuanidhi/blob/main/assets/anime-banner.gif?raw=true" alt="Anime Coding Banner" style="width:100%"/>
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration1=1100&duration2=1100&duration3=2000&pause=800&color=FFA500&background=00000000&width=700&lines=HELLO+O.O%F0%9F%8F%93+%F0%9F%8F%93%EF%BC%BC(%5Eo%5E)%2F+O_O;I'M+A+PASSIONATE+DEVELOPER;I+AM+YUVARAJ+KARUANIDHI;&center=true&vCenter=true&repeat=true" alt="Typing Animation"/>
+  </div>
+</div>
+<div style="margin-top: -10px;">
 <h2 style="font-size: 1.5em; font-weight: bold;">➡️ About Me</h2>
 <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZWJoNHE3OXJqMTh1NDR6dzZ0bjYycm9lYW1hZWM5Y2ljYjdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RneIcLEosVuta/giphy.gif" width="200" align=center"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZWJoNHE3OXJqMTh1NDR6dzZ0bjYycm9lYW1hZWM5Y2ljYjdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RneIcLEosVuta/giphy.gif" width="200" align="center"/>
   
 - 🔭 I'm currently working on improving my skills every day
 - 🌱 Learning everything about AI/ML & Web-dev
@@ -18,6 +15,7 @@
 - 🎯 Life motto: "Engineering the future. Marvel."
 - ☕ My Website: ---working on progress---
 </p>
+</div>
 
 <h2 style="font-size: 1.5em; font-weight: bold;">⚙️ Tech Stack</h2>
 
@@ -46,7 +44,7 @@
 
 <br clear="both">
 
-<p align="center"; font-weight: bold;">Let's build something amazing together! ✨</p>
+<p align="center"; font-weight: bold;>Let's build something amazing together! ✨</p>
 
 ---
 

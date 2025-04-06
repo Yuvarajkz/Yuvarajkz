@@ -10,11 +10,11 @@
 
 <h2 style="font-size: 1.5em; font-weight: bold;">➡️ About Me</h2>
 <p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZWJoNHE3OXJqMTh1NDR6dzZ0bjYycm9lYW1hZWM5Y2ljYjdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RneIcLEosVuta/giphy.gif" width="200" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBtZWJoNHE3OXJqMTh1NDR6dzZ0bjYycm9lYW1hZWM5Y2ljYjdoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RneIcLEosVuta/giphy.gif" width="200" align=center"/>
   
 - 🔭 I'm currently working on improving my skills every day
 - 🌱 Learning everything about AI/ML & Web-dev
-- ⚡ Currently studing B.tech CSE
+- ⚡ B.tech CSE
 - 🎯 Life motto: "Engineering the future. Marvel."
 - ☕ My Website: ---working on progress---
 </p>
@@ -40,8 +40,8 @@
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DemonXyuv)
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU1emhkZm90OGIyYTBwMG0xeTJ5bHpvMzR5MDlvbmViOXMyaGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvPinx8119aYE/giphy.gif" width="200" height="115" align="left">
-  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsbzhxaTN0ZWJjazhsbWtxb2FoYWZmZzNuMTgyYmhqOWRidGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif width="200" height="115" align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU1emhkZm90OGIyYTBwMG0xeTJ5bHpvMzR5MDlvbmViOXMyaGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvPinx8119aYE/giphy.gif" width="100" height="85" align="left">
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsbzhxaTN0ZWJjazhsbWtxb2FoYWZmZzNuMTgyYmhqOWRidGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif width="100" height="85" align="right">
 </p>
 
 <br clear="both">

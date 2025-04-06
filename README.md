@@ -40,8 +40,8 @@
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DemonXyuv)
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU1emhkZm90OGIyYTBwMG0xeTJ5bHpvMzR5MDlvbmViOXMyaGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvPinx8119aYE/giphy.gif" width="100" height="85" align="left">
-  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsbzhxaTN0ZWJjazhsbWtxb2FoYWZmZzNuMTgyYmhqOWRidGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif width="100" height="85" align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU1emhkZm90OGIyYTBwMG0xeTJ5bHpvMzR5MDlvbmViOXMyaGM5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pvPinx8119aYE/giphy.gif" width="100" height="75" align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNsbzhxaTN0ZWJjazhsbWtxb2FoYWZmZzNuMTgyYmhqOWRidGJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8MyXEVgue4ucw/giphy.gif" width="100" height="75" align="right">
 </p>
 
 <br clear="both">

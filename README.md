@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Yuvaraj-Karuanidhi/Yuvaraj-Karuanidhi/blob/main/assets/anime-banner.gif?raw=true" alt="Anime Coding Banner" style="width:100%"/>
+  <img src="https://github.com/Yuvaraj-Karunanidhi/Yuvaraj-Karunanidhi/blob/main/assets/anime-banner.gif?raw=true" alt="Anime Coding Banner" style="width:100%"/>
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration1=1100&duration2=1100&duration3=2000&pause=800&color=FFA500&background=00000000&width=700&lines=HELLO+O.O%F0%9F%8F%93+%F0%9F%8F%93%EF%BC%BC(%5Eo%5E)%2F+O_O;I'M+A+PASSIONATE+DEVELOPER;I+AM+YUVARAJ+KARUANIDHI;&center=true&vCenter=true&repeat=true" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration1=1100&duration2=1100&duration3=2000&pause=800&color=FFA500&background=00000000&width=700&lines=HELLO+O.O%F0%9F%8F%93+%F0%9F%8F%93%EF%BC%BC(%5Eo%5E)%2F+O_O;I'M+A+PASSIONATE+DEVELOPER;I+AM+YUVARAJ+KARUNANIDHI;&center=true&vCenter=true&repeat=true" alt="Typing Animation"/>
   </div>
 </div>
 <div style="margin-top: -10px;">
